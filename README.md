@@ -10,7 +10,7 @@
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 👷 Autor
-* **Nome do dev** - Angelo Silvano - Desenvolvedor - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Nome do dev** - Angelo Silvano - Front-End Developer - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 # 📄 Licença**
 * Este projeto está sob a licença MIT license - consulte os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Sidebar/blob/main/LICENSE).
