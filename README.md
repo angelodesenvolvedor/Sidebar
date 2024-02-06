@@ -11,3 +11,7 @@
 
 # 👷 Autor
 * **Nome do dev** - Angelo Silvano - Desenvolvedor - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+
+# 📄 Licença**
+* Este projeto está sob a licença MIT license - consulte os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Sidebar/blob/main/LICENSE).
+  
