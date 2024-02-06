@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/Sidebar/assets/98216100/15db7c92-fd1b-428d-a02a-2cc4f34a825d)
+
 # Sidebar
 * Uma aplicação de barra lateral (Sidebar) responsiva.
 
