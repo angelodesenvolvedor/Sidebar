@@ -1,0 +1,29 @@
+/* photo_styles.css */
+
+#photo_gallery {
+    display: flex;
+    flex-direction: row; /* Ajuste para exibir as imagens em linha */
+    gap: 10px;
+}
+
+.photo_container {
+    flex: 1; /* Cada contêiner ocupa a mesma quantidade de espaço disponível */
+    max-width: 33.33%; /* Define a largura máxima para garantir que três fotos caibam em uma linha */
+}
+
+.photo_container img {
+    width: 100%; /* As imagens ocuparão a largura total do contêiner */
+    height: auto; /* Mantém a proporção original da imagem */
+    border-radius: 5px; /* Adiciona bordas arredondadas às imagens (opcional) */
+}
+
+/* Ajustes para dispositivos móveis */
+@media (max-width: 767px) {
+    #photo_gallery {
+        flex-wrap: wrap; /* Ajusta para que as imagens se movam para a próxima linha em telas menores */
+    }
+
+    .photo_container {
+        max-width: 100%; /* Em telas menores, cada contêiner ocupa 100% da largura */
+    }
+}
