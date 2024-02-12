@@ -15,5 +15,5 @@
 * **Nome do dev** - Angelo Silvano - Front-End Developer - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 # 📄 Licença
-* Este projeto está sob a licença MIT license - consulte os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Sidebar/blob/main/LICENSE).
+* Este projeto está sob a licença MIT license - consulte os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Sidebar?tab=MIT-1-ov-file).
   
